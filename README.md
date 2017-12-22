@@ -4,7 +4,7 @@ It uses 2-layered fully connected/Dense Neural network model to predict whether 
 
 Best thing would be to follow my blog-post for implementation. The description about the steps to build the application from scratch can be read from my blog:
 
-
+https://appliedmachinelearning.wordpress.com/2017/12/21/predict-the-happiness-on-tripadvisor-reviews-using-dense-neural-network-with-keras-hackerearth-challenge/
 
 It is a python implementation utilizing Keras library for DNN.
 
