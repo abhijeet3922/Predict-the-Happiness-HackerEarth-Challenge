@@ -13,3 +13,7 @@ The accuracy score achieved was 88% when prediction file (sample_submisson.csv) 
 
 The link for corpus/dataset download is given in blog-post.
 
+Having so much of discussion around BERT over internet, I also chose to apply BERT in the same competition in order to prove if tuning BERT model can take me to the top of leader board of the challenge. Here is the blog-post show casing the step by step process of using pre-trained BERT model which took me to RANK 4 in the leaderboard.
+
+https://appliedmachinelearning.blog/2019/03/04/state-of-the-art-text-classification-using-bert-model-predict-the-happiness-hackerearth-challenge/
+
